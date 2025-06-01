@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/oasis/static/css/main.da00dbe6.chunk.css",
+    "main.js": "/oasis/static/js/main.70f63a5c.chunk.js",
+    "main.js.map": "/oasis/static/js/main.70f63a5c.chunk.js.map",
+    "runtime~main.js": "/oasis/static/js/runtime~main.81fff13c.js",
+    "runtime~main.js.map": "/oasis/static/js/runtime~main.81fff13c.js.map",
+    "static/js/2.03cfbe3b.chunk.js": "/oasis/static/js/2.03cfbe3b.chunk.js",
+    "static/js/2.03cfbe3b.chunk.js.map": "/oasis/static/js/2.03cfbe3b.chunk.js.map",
+    "static/js/3.c02789ba.chunk.js": "/oasis/static/js/3.c02789ba.chunk.js",
+    "static/js/3.c02789ba.chunk.js.map": "/oasis/static/js/3.c02789ba.chunk.js.map",
+    "index.html": "/oasis/index.html",
+    "precache-manifest.77086dd64fc8e1add867f640e015d627.js": "/oasis/precache-manifest.77086dd64fc8e1add867f640e015d627.js",
+    "service-worker.js": "/oasis/service-worker.js",
+    "static/css/main.da00dbe6.chunk.css.map": "/oasis/static/css/main.da00dbe6.chunk.css.map",
+    "static/media/logo.png": "/oasis/static/media/logo.4e509340.png",
+    "static/media/main.jpg": "/oasis/static/media/main.3ce43a45.jpg"
+  }
+}
